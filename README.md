@@ -23,5 +23,4 @@ Special thanks to Hugo (www.supergusiland.com) for contributing the GBA SP AGS-C
 ### ☕ Support me
 If you like my work, you can support me here:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow)]([buymeacoffee.com/juliansk])
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow)](https://buymeacoffee.com/juliansk)
